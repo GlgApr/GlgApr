@@ -1,5 +1,5 @@
 # Hello There, I'm using Github! 👋
-### I'm Galang Aprilian
+### I'm Galang Aprilian a.k.a ScupidC0des
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/__glgapr?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/glgapr?label=Follow&style=social)
