@@ -70,7 +70,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/glgapr"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/glgapr"><img src="https://img.shields.io/badge/-glgapr-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:scupidc0des@protonmail.com"><img src="https://img.shields.io/badge/-scupidc0des@protonmail.com.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/glgapr"><img src="https://img.shields.io/badge/-@glgapr-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/__glgapr"><img src="https://img.shields.io/badge/-@__glgapr-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
