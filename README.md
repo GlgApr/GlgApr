@@ -67,6 +67,9 @@
 </a>
 </p>
 
+### ⌨️ &nbsp;Coding Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=scupidc0des)](https://github.com/glgapr)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
