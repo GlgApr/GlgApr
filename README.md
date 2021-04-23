@@ -61,7 +61,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/vivek9patel">
+<a href="https://github.com/glgapr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=glgapr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=glgapr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -74,6 +74,6 @@
 
 <p>
 <a href="https://linkedin.com/in/glgapr"><img src="https://img.shields.io/badge/-glgapr-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:scupidc0des@protonmail.com"><img src="https://img.shields.io/badge/-scupidc0des@protonmail.com.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:scupidc0des@protonmail.com"><img src="https://img.shields.io/badge/-scupidc0des@protonmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/__glgapr"><img src="https://img.shields.io/badge/-@__glgapr-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
