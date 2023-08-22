@@ -1,7 +1,7 @@
 # Hello There, I'm using Github! 👋
 ### I'm Galang Aprilian a.k.a ScupidC0des
 
-![Twitter Follow](https://img.shields.io/twitter/follow/__glgapr?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/__glgapr)
 ![GitHub followers](https://img.shields.io/github/followers/glgapr?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=glgapr.glgapr)
 
